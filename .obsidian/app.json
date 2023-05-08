@@ -1,0 +1,21 @@
+{
+  "spellcheck": true,
+  "alwaysUpdateLinks": true,
+  "livePreview": false,
+  "communityThemeSortOrder": "download",
+  "readableLineLength": true,
+  "strictLineBreaks": false,
+  "showFrontmatter": false,
+  "lineWrap": true,
+  "rightToLeft": false,
+  "showLineNumber": false,
+  "attachmentFolderPath": "Attachments",
+  "defaultViewMode": "preview",
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
+}

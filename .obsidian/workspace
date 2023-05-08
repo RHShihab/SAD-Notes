@@ -1,0 +1,187 @@
+{
+  "main": {
+    "id": "5a7875031ef70e79",
+    "type": "split",
+    "children": [
+      {
+        "id": "c9d737c21f9b3120",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Dummy Robot eng.md",
+            "mode": "preview",
+            "source": true
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b2014078d65cba53",
+    "type": "split",
+    "children": [
+      {
+        "id": "cc2f12413aba7959",
+        "type": "tabs",
+        "dimension": 33.266331658291456,
+        "children": [
+          {
+            "id": "56999d1807a455f5",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Dummy Robot eng.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": -3,
+                  "nodeSizeMultiplier": 1.08,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.5087618855792607,
+                  "close": true
+                }
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "bb505fe1dcb89ae1",
+        "type": "tabs",
+        "dimension": 66.73366834170854,
+        "children": [
+          {
+            "id": "47c63adcf92f3ceb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "d851dc4f1cdaf252",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "bcd966cf5b9a7842",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 233
+  },
+  "right": {
+    "id": "1846f0f9a81aeb45",
+    "type": "split",
+    "children": [
+      {
+        "id": "c6bc9b3199c51612",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9eba6f7379c73575",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Dummy Robot eng.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "65ef535d6ff0d8ac",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Dummy Robot eng.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "420d659258270bb4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a9338d209c12a013",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Dummy Robot eng.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "c9d737c21f9b3120",
+  "lastOpenFiles": [
+    "IEEE Membership.md",
+    "Business Rule draft.md",
+    "Webdev/Frontend/HTML.md",
+    "Webdev/Frontend/Frontend.md",
+    "Program Flow.md",
+    "Oxysaver.md",
+    "Dummy Robot eng.md",
+    "DBMS readme.md",
+    "Relational Schema.md",
+    "Webdev/WebDev.md"
+  ]
+}
