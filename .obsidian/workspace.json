@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "📝 System Analysis and Design.md",
                 "mode": "source",
                 "source": true
               }
@@ -39,7 +39,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "README.md",
+                "file": "📝 System Analysis and Design.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -120,7 +120,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 596.5,
+    "collapsed": true
   },
   "right": {
     "id": "1846f0f9a81aeb45",
@@ -136,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "📝 System Analysis and Design.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "📝 System Analysis and Design.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +177,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "📝 System Analysis and Design.md"
               }
             }
           },
@@ -208,22 +209,27 @@
   },
   "active": "16d888fc836277d7",
   "lastOpenFiles": [
-    "📝 System Analysis and Design.md",
-    "Communication diagram.md",
-    "Sequence diagram.md",
-    "📝 Uni Assignments & Final Prep.md",
+    "Attachments/Pasted image 20230509071232.png",
+    "Attachments/Pasted image 20230509070554.png",
+    "Attachments/Pasted image 20230509064659.png",
+    "Attachments/Pasted image 20230509064651.png",
+    "Attachments/Pasted image 20230509064641.png",
+    "Attachments/Pasted image 20230509064634.png",
+    "Attachments/Pasted image 20230509064151.png",
     "Class diagram.md",
-    "Attachments/Pasted image 20230508105916.png",
-    "Attachments/Pasted image 20230508105815.png",
-    "Attachments/Pasted image 20230508105351.png",
+    "📝 System Analysis and Design.md",
+    "Sequence diagram.md",
     "Activity diagram.md",
-    "Attachments/Pasted image 20230508105116.png",
     "Use Case Diagram.md",
     "Physical dfd.md",
-    "Attachments/Pasted image 20230508104501.png",
-    "Attachments/Pasted image 20230508104252.png",
-    "Attachments/Pasted image 20230508103916.png",
-    "Attachments/Pasted image 20230508102803.png",
+    "Attachments/Pasted image 20230508152515.png",
+    "Logical dfd.md",
+    "Attachments/Pasted image 20230508152456.png",
+    "README.md",
+    "Communication diagram.md",
+    "📝 Uni Assignments & Final Prep.md",
+    "Attachments/Pasted image 20230508105916.png",
+    "Attachments/Pasted image 20230508105815.png",
     "E2 Lab.md",
     "Webdev/WebDev.md",
     "Webdev/Prisma.md",
@@ -236,13 +242,9 @@
     "DevOps.md",
     "2023-05-05.md",
     "cse310 Final Questions.md",
-    "Attachments/e2_q3.png",
-    "Attachments/e2_q2.2.png",
     "Oxysaver.md",
     "Mobile 3DOF Robo Arm.md",
     "Dummy Robot eng.md",
-    "API test.md",
-    "apiPages.js.md",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
